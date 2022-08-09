@@ -1,7 +1,7 @@
 # SDK-hackerthon
 
 ## Creating a site optimized for a user's webtoon through Korean webtoon data.
-with [cricky04](https://github.com/cricky04/devkor_ml) [just-benedict-it](https://github.com/just-benedict-it/devkor_ml)
+with [cricky04](https://github.com/cricky04/devkor_ml) & [just-benedict-it](https://github.com/just-benedict-it/devkor_ml)
 ### What I done
 - Using FastAPI to deploy Machine Learning Model
 - Using react to build a website
