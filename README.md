@@ -7,3 +7,5 @@
 
 ## For Better Next Time
 - [Folder-Structure-Conventions](https://github.com/kriasoft/Folder-Structure-Conventions)
+- Material Icon Theme
+- Do List Up First
