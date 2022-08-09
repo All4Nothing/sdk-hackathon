@@ -6,4 +6,4 @@
 - Using ngrok 
 
 ## For Better Next Time
-- Folder Structure Conventions [Folder-Structure-Conventions](https://github.com/kriasoft/Folder-Structure-Conventions)
+- [Folder-Structure-Conventions](https://github.com/kriasoft/Folder-Structure-Conventions)
