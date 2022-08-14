@@ -1,4 +1,4 @@
-# SDK-hackerthon
+# SDK-hackathon
 
 ## Creating a site optimized for a user's webtoon through Korean webtoon data.
 with [cricky04](https://github.com/cricky04/devkor_ml) & [just-benedict-it](https://github.com/just-benedict-it/devkor_ml)
